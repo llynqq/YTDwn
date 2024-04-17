@@ -1,6 +1,6 @@
 # YTDwn
 
-A new Flutter project.
+Android app for downloading content from YouTube
 
 ## Getting Started
 
